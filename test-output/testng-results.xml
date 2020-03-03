@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23543" started-at="2020-03-01T09:16:32Z" finished-at="2020-03-01T09:16:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23543" started-at="2020-03-01T09:16:32Z" finished-at="2020-03-01T09:16:56Z">
+      <class name="com.zwz.test.autowebtest.InfoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.zwz.test.autowebtest.InfoTest@3bfdc050]" name="setUp" is-config="true" duration-ms="16488" started-at="2020-03-01T09:16:32Z" finished-at="2020-03-01T09:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="modifyInfo()[pri:0, instance:com.zwz.test.autowebtest.InfoTest@3bfdc050]" name="modifyInfo" duration-ms="1913" started-at="2020-03-01T09:16:49Z" finished-at="2020-03-01T09:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyInfo -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.zwz.test.autowebtest.InfoTest@3bfdc050]" name="close" is-config="true" duration-ms="5118" started-at="2020-03-01T09:16:51Z" finished-at="2020-03-01T09:16:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.zwz.test.autowebtest.InfoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
